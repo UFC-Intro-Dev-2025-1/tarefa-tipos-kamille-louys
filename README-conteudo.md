@@ -1,4 +1,4 @@
-# Variáveis
+npm run buildnpm ru# Variáveis
 
 <!-- toc -->
 
